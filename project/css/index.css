@@ -1,0 +1,180 @@
+.logo>img
+  {
+  height:34px;
+  margin-top:9px;
+  }
+  .dir-nav
+  {
+  float:right;
+  }
+  .contactus-button
+  {
+  border:2px solid white;
+  margin-top:8px;
+  background-color:transparent;
+  border-radius: 15px;
+  }
+  .contactus-button>a
+  {
+  color:white;
+  }
+  .contactus-button:hover
+  {
+  background-color:green;
+ 
+  }
+  
+  .banner1-container>img
+  {
+  width:100%;
+  margin-top:-72px;
+ height:365px;
+  }
+  .banner1-container
+  {
+  padding-right:0px;
+    padding-left:0px;
+  }
+  .dir-nav>li>a
+  {
+  color:white;
+  }
+  .dir-nav>li>a:hover
+  {
+  background-color:transparent;
+  }
+  .name
+  {
+  color:white;
+  margin: 11px;
+  }
+  .contactus-btn2
+  {
+  color:white;
+  background-color:#2658cc;
+   border-radius: 0px;
+   margin-top: -21px;
+  }
+   .contactus-btn2:hover
+   {
+   color:white;
+   }
+   .homecon
+   {
+   color:gray;
+   margin-top: 20px;
+   }
+   .formimg
+   {
+   padding:0px;
+   padding-bottom:0px;
+  padding-left:0px !important;
+      margin-top: 27px;
+	      background-color: white;
+   }
+   .formimg>row>img
+   {
+   border-radius:4px;
+   }
+   .imgimp>img
+   {
+  border-radius: 10px 0px 10px 10px;
+    clip-path: polygon(0 0,100% 0,90% 100%,0 100%);
+	height: 465px;
+   }
+   .text1{
+     position: absolute;
+    top: 22px;
+    left: 40px;
+    font-family: sans-serif;
+    color: #DBDBDB;
+    font-size: 19px;
+  }
+  .text2{
+     position: absolute;
+    top: 72px;
+    left: 35px;
+    color: #DBDBDB;
+    font-size: 33px;
+  }
+   .text3{
+     position: absolute;
+    top: 107px;
+    left: 40px;
+    font-family: sans-serif;
+    color: #DBDBDB;
+    font-size: 15px;
+  }
+  .mesgform
+  {
+    width: 22%;
+    margin-left: 184px;
+    margin-top: 29px;
+	border-style:hidden;
+  }
+ .mesgform1
+ {
+ width: 582px;
+    margin-left:165px;;
+    padding: 20px;
+ }
+ .dropform
+ {
+margin-left: 186px;
+    margin-top: 27px;
+    color: black;
+    margin-bottom: 0px;
+ }
+ .bodycolor
+ {
+     background-color: #eee;
+ }
+ .conemail
+ {
+ background-color:white;
+margin-left: -104px;
+    width: 1348px;
+    height: 109px;
+ }
+ .conemail1
+ {
+ background:linear-gradient(to right,#2799dd,#2658cc);
+ margin-left: -104px;
+    width: 1348px;
+    height: 109px;
+	
+ }
+ 
+ .gly
+ {
+ margin-top:1px;
+ }
+ .conemail1>h4
+ {
+ color:white;
+ }
+ .textto
+ {
+ color:white;
+
+ margin-top: 31px;
+    font-size: 31px;
+	 }
+	 .combo
+	 {
+	 margin-top: 31px;
+    margin-left: 224px;
+	 }
+	 .socialicon
+	 {
+	 color:white;
+	 background-color:black;
+	 margin-left: -104px;
+    width: 1348px;
+    height: 109px;
+	 }
+	 .socialicon > h4
+	 {
+	 margin-top:45px;
+	 }
+  
